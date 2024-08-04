@@ -38,4 +38,3 @@ if uploaded_file:
         carbon_footprint = fuel_consumption * emission_factor
         st.write(f"Seçilen aktivitenin karbon ayak izi: {carbon_footprint} kg CO2e")
 
-streamlit run app.py
