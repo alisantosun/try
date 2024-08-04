@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 from streamlit.components.v1 import html
-from sklearn.neural_network import MLPRegressor
+
 from sklearn.preprocessing import StandardScaler
 import pickle
 import io
