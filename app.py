@@ -1,4 +1,3 @@
-pip install pandas streamlit openpyxl
 import pandas as pd
 
 # Excel dosyasını okuma
